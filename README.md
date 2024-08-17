@@ -20,5 +20,4 @@ In database we have 8 tables. Table names listed below:
 6. kullanici
 7. sinif
 8. student
-### Resources:
 
